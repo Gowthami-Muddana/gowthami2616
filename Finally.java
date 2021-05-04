@@ -14,7 +14,7 @@ public class Finally {
 				System.out.println(e);
 			}
 			try {
-				int i = 10;
+				int i = 100;
 
 				int k = 20;
 
